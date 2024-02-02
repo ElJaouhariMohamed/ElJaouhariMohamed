@@ -7,6 +7,8 @@
 
 - ⚡ Fun fact **I love IT & Gaming**
 
+⚡ My Portfolio **[Here](https://eljaouhari-eljaouharimohameds-projects.vercel.app/)**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/el jaouhari mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="el jaouhari mohamed" height="30" width="40" /></a>
