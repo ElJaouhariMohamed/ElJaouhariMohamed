@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm El Jaouhari Mohamed</h1>
 <h3 align="center">Student in Data Science & Software Quality and Reliability</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/ElJaouhariMohamed?tab=repositories](https://github.com/ElJaouhariMohamed?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/ElJaouhariMohamed?tab=repositories)
 
 - 📫 How to reach me **eljaouharimohamed.2001@gmail.com**
 
